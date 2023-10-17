@@ -1,4 +1,4 @@
-# Project Title: Comprehensive Comparison Of RDBMS and NoSQL Databases For Healthcare Applications
+# Comprehensive Comparison Of RDBMS and NoSQL Databases For Healthcare Applications
 
 Performance analysis of RDBMS and Document NoSQL MongoDB for Healthcare Insurance Recommendation Application. Organizations who needs to change their database for better performance can be benefited from this project.
 
